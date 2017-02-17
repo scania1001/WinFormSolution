@@ -19,7 +19,7 @@ namespace SimpleCalculator01
             Application.Run(new Form1());
 
             let main argy =
-            printfn "%A : code is change !!!" argv
+            printfn "%A : code is change already !!!" argv
         }
     }
 }
