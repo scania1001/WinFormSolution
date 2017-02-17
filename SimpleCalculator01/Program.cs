@@ -19,10 +19,12 @@ namespace SimpleCalculator01
             Application.Run(new Form1());
 
             let main argy =
-            printfn "%A : code is change again !!!" argv
+            printfn "%A : code is change again and again  !!!" argv
         }
     }
 }
+
+//這是妳在問的編輯嗎?
 //你現在只有把檔案加入
 //還沒commit
 //所以要先認可才可以上傳
