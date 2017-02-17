@@ -1,0 +1,9 @@
+D:\Build School\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.exe.config
+D:\Build School\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.exe
+D:\Build School\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.pdb
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csprojResolveAssemblyReference.cache
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.Form1.resources
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.Properties.Resources.resources
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csproj.GenerateResource.Cache
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.exe
+D:\Build School\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.pdb

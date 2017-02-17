@@ -20,3 +20,6 @@ namespace SimpleCalculator01
         }
     }
 }
+//你現在只有把檔案加入
+//還沒commit
+//所以要先認可才可以上傳

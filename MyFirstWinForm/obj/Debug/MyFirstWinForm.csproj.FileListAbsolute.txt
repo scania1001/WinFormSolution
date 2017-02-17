@@ -1,0 +1,9 @@
+D:\Build School\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+D:\Build School\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+D:\Build School\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csprojResolveAssemblyReference.cache
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Form1.resources
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.Cache
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+D:\Build School\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb
